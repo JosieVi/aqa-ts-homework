@@ -23,8 +23,6 @@
         'My name is Elena TSovna, I am software developer with 6 years of experience in TypeScript and 6000$ salary' (пример для девелопера)
 */
 
-import { get } from "http";
-
 interface IPerson {
     name: string;
     surname: string;
